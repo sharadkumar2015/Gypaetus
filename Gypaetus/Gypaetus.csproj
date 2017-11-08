@@ -73,6 +73,7 @@
     <Content Include="font-awesome-4.7.0\HELP-US-OUT.txt" />
     <Content Include="images\BackgroundGypaetus.jpg" />
     <Content Include="images\financialfreedom.jpg" />
+    <Content Include="images\Testimonials\Client1.JPG" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <Content Include="font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
